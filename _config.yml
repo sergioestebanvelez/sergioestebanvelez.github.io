@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
@@ -52,7 +52,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: architect
+
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
